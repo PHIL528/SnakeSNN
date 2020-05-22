@@ -30,7 +30,7 @@ public class SnakeMain {
 	static boolean plsRender;
 	static boolean cont1;
 	static boolean cont2;
-	static double LR = 0.004;
+	static double LR = 1.0;
 	static boolean sw = false;
 	static int mode = 0;
 	static final int dim = 8;

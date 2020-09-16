@@ -1,4 +1,4 @@
-# SnakeSNN //This project needs a backprop algo to actually do anything 
+# SnakeSNN 
 
 To install in Eclipse:
 1) Add Egit
@@ -8,6 +8,8 @@ File > New > Project > Maven > Check out Maven Projects from SCM > put in https:
 3) Configure SnakePKG.SnakeMain as Main Class
 Run > Run Configurations > Project: Browse for "SnakeSNN" && Main Class: Browse for "SnakePKG.SnakeMain"
 
+
+[](https://imgur.com/QtPU8CO)
 
 To Play Snake:
 1) Run

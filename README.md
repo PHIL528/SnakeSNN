@@ -10,6 +10,10 @@ File > New > Project > Maven > Check out Maven Projects from SCM > put in https:
 3) Configure SnakePKG.SnakeMain as Main Class
 Run > Run Configurations > Project: Browse for "SnakeSNN" && Main Class: Browse for "SnakePKG.SnakeMain"
 
+
+I built this project with Processing PDE, a Java compatible display system. You can either play snake, or let a spiking neural network (in this case resevoir computer) learn how to play snake. It learns/evolves by randomly adjusting connections and testing if the adjustment improves the score, and keeps the one which is better. 
+
+
 To Play Snake:
 1) Run
 2) Click the display window

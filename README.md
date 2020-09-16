@@ -1,6 +1,6 @@
 # SnakeSNN
 
-![](https://imgur.com/QtPU8CO)
+[Imgur](https://i.imgur.com/QtPU8CO.png)
 
 To install in Eclipse:
 1) Add Egit

@@ -1,6 +1,6 @@
 # SnakeSNN
 
-[](EclipseSnake.png)
+![Alt text](EclipseSnake.png?raw=true "Title")
 
 To install in Eclipse:
 1) Add Egit
